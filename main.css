@@ -1,0 +1,7 @@
+ span[data-ab-test-variation="treatment"] {
+  display: block !important;
+}
+
+ span[data-ab-test-variation="control"] {
+  display: none !important;
+}
